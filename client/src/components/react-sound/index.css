@@ -1,0 +1,135 @@
+body {
+   
+    background-color: rgb(10, 10, 10);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .Title-Description {
+     background-image: url(https://lh3.googleusercontent.com/bBr5oG5wMaszl3b-BXgvKA3l8rkx27vrGKg5SsF-tqr1Yv8CKnWsLLdR-dSzFu1uGXRCOhWSodnM1olI55QD_AlyHVYb3AFYMX56zyYNDN0FZuOu3Geq5HckbmlGgI68jpXbclruGA=w2400);
+    /* background-image: linear-gradient(rgb(187, 10, 10), rgb(8, 34, 184)); */
+     padding-bottom: 1in;
+    font-family: sans-serif;
+    font-size:75px;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(45, 214, 81); 
+} 
+
+.Descripton {
+    margin-top: -1.5in;
+    padding-bottom: 1in;
+    font-family: sans-serif;
+    font-size:35px;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(45, 214, 87);
+
+
+}
+.Questions {
+font-size: 35px;
+text-align: center;
+font-family: sans-serif;
+font-weight: bold;
+padding: 3px;
+color: rgb(250, 24, 24);
+/* border: 2px;
+border-color: rgb(0, 0, 8);
+border-style:  solid; */
+}
+
+.radio {
+    border: 2px;
+    border-color: rgb(0, 0, 8);
+    border-style: solid;
+    }
+
+.form-check {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+align-content: center;
+text-align-last: center;
+
+}
+
+.container {
+    margin-right: 0px !important;
+    margin-left: 380px !important;
+}
+
+
+.jumbotron {
+   background-image: linear-gradient(rgb(0, 0, 8), rgb(45, 214, 87));
+}
+
+.input-title {
+    border-radius: 10px;
+    margin-right:900px;
+    padding:10px;
+     background-color:#DC143C;
+    color:white;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    padding: 3px;
+    color: rgb(2, 160, 252);
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+
+.BTN {
+    align-items: center;
+
+    width: 160px
+}
+.add-player {
+    border:none;
+    border-radius: 10px;
+    color:rgb(12, 12, 12);
+    text-align:center;
+    margin-top:10px;
+    background-color: #DC143C;
+    border-radius: 7px;
+    padding:10px;
+    font-size:25px;
+    margin-left:15%;
+}
+
+.card {
+    padding:30px;
+    background-color:#F5FFFA;
+    margin:15px;
+    /* background-image: url('./../playerCard-image/playerCard.jpg'); */
+
+    
+  }
+
+ .input-form-lg {
+     padding-top: 25px;
+     padding-left:200px;
+     padding-right: 50px; 
+     margin-right: auto;
+     align-content: center;
+     font-size: 15px;
+     
+     
+     
+ }
+
+ .form-group {
+     margin-right: 25%;
+     margin-left: 35%;
+ }
+
+ .deletebtn {
+ margin-left:15px }
+ .form-title{color:white}
+ .submit{margin-left:15px;}
+.mybtn{background-color:#5F9EA0;width:200px}
+.users{background-color:#A9A9A9; border-radius:10px}
